@@ -5,3 +5,6 @@ with the help of [Mediapipe](https://google.github.io/mediapipe/) and [OpenCV](h
 # How it works
 it simply capture camera frame with Opencv and collect hand landmark data through Mediapipe and 
 acccording to condition it gives sing alphabet output.
+
+# Team Meambers
+   ** Pratik Rajput
