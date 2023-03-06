@@ -7,7 +7,7 @@ it simply capture camera frame with Opencv and collect hand landmark data throug
 acccording to condition it gives sing alphabet output.
 
 # Team Meambers
-   [Pratik Rajput](https://www.linkedin.com/in/pratik-rajput-214427258/)
-   Yash Done
-   Jatin Sathe
-   Ayush Goswami
+   *[Pratik Rajput](https://www.linkedin.com/in/pratik-rajput-214427258/)
+   *Yash Done
+   *Jatin Sathe
+   *Ayush Goswami
