@@ -1,5 +1,5 @@
 # Sign-Language
-Recognize sign language alphabet using python. We create a simple sing language recognition project 
+Recognize sign language alphabet using python. We create a simple sign language recognition project 
 with the help of [Mediapipe](https://google.github.io/mediapipe/) and [OpenCV](https://opencv.org/)
 
 # Requirements
